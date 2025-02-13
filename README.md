@@ -20,7 +20,7 @@
 
 ## 🖼️ Screenshot
 
-![Meme Generator Screenshot]()
+![Meme Generator Screenshot](![Image](https://github.com/user-attachments/assets/51d488a6-26c2-47da-a144-5138c61d5d78)
 
 ---
 
