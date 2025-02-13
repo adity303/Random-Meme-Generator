@@ -20,7 +20,7 @@
 
 ## 🖼️ Screenshot
 
-![Meme Generator Screenshot](https://via.placeholder.com/800x400.png?text=Random+Meme+Generator+Preview)
+![Meme Generator Screenshot]()
 
 ---
 
